@@ -7,7 +7,7 @@
 .hero{
 	height: 100vh;
 	width: 100%;
-	background-image: url(../img/IMG_20220226_082215.png);
+	background-color: #000;
 	background-size: cover;
 	background-position: center;
 }
